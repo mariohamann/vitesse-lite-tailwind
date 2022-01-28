@@ -1,13 +1,13 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+  <img src='https://repository-images.githubusercontent.com/453208956/37af7f4a-2ec0-4d32-b239-eacd96094762' alt='Vitesse Lite with Tailwind - Opinionated Vite Starter Template' width='600'/>
 </p>
 
 <h6 align='center'>
-<a href="https://vitesse-lite.netlify.app/">Live Demo</a>
+<a href="https://vitesse-lite-tailwind.netlify.app">Live Demo</a>
 </h6>
 
 <h5 align='center'>
-<b>Lightweight version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
+<b>Lightweight version of <a href="https://github.com/antfu/vitesse">Vitesse by Anthony Fu</a> with <a href="https://github.com/antfu/vitesse">TailwindCSS</a></b>
 </h5>
 
 <br>
@@ -20,7 +20,7 @@
 
 - 📦 [Components auto importing](./src/components)
 
-- 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- 🎨 [TailwindCSS](https://tailwindcss.com) - A utility-first CSS framework.
 
 - 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
 
@@ -50,12 +50,11 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 
 ### UI Frameworks
 
-- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [TailwindCSS](https://tailwindcss.com) - A utility-first CSS framework
 
 ### Icons
 
 - [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
-- [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
 
 ### Plugins
 
@@ -69,14 +68,14 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-lite/generate).
+[Create a repo from this template on GitHub](https://github.com/mariohamann/vitesse-lite-tailwind/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse-lite my-vitesse-app
-cd my-vitesse-app
+npx degit mariohamann/vitesse-lite-tailwind my-vitesse-tailwind-app
+cd my-vitesse-tailwind-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
